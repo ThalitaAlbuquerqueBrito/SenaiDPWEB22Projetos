@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Outfit:wght@300&family=Pacifico&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+body{
+    background-color: #d3a2b9;
+}
+.wrapper{
+    margin: auto;
+    width: 90%;
+    max-width: 1440px;
+}
+#logo{
+    color: darkorchid;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Lobster';
+    text-align: center;
+
+}
+#foto-cabecalho{
+    object-fit: cover;
+    margin: 15px
+}
+.menu{
+    font-size: 30px;
+}
+.secao-1{
+    font-size: 30px;
+}
+.secao-2{
+    font-size: 30px;
+}
+.texto{
+    font-size: 40px;
+}
+.promocao-cabelos{
+    font-size: 30px;
+    margin: 10px;
+    font-weight: bold;
+
+}
+.promocao-maquiagens{
+    font-size: 30px;
+    margin: 10px;
+    font-weight: bold;
+    font-family: 'Staatliches';
+}
+#shampoo-loreal{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 32px;
+}
+#condicionador-truss{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
+#mascara-cabelo{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
+#espuma-deva{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
+#mousse-cabelo{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
+#cilios{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
+#shampoo-truss{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
+#base-mari{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
+#primer{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
+#paleta-nars{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
+#kit-pinceis{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
+#delineador{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
+.imagens-cabelo{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+.imagens-maquiagem{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 20px;
+}
